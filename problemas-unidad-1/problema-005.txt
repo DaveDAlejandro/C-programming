@@ -1,0 +1,20 @@
+Luis, Ana y Carlos fueron a comprar fruta a un local que se encuentra cerca de
+su casa. Los precios que maneja este local son:
+Un kilo de uvas cuesta $40
+El cuarto de sandía está a $25
+El kilo de plátano cuesta $20
+El medio kilo de fresas cuesta $50
+A la dueña de la frutería le gusta llevar un registro personalizado de sus
+clientes, de tal manera que cuando acumulan en un mes $500 pesos o más de
+compra, les regala dos manzanas.
+Luis había acumulado $400, Ana había acumulado $470 y Carlos había
+acumulado $450 hasta antes de esta última visita.
+Explica la lógica y determina:
+¿Cómo calcular cuánto gastó Luis?
+¿Cómo calcular cuánto gastó Ana?
+¿Cómo calcular cuánto gastó Carlos?
+¿Cómo calcular cuánto ganó la tienda de esta venta?
+¿Les tocaron las manzanas de regalo a alguno de estos tres amigos? ¿a
+quienes?
+Considera que la cantidad que compra cada cliente no necesariamente se
+expresará en kilogramos, puede expresarse en gramos.

@@ -1,0 +1,8 @@
+Un profesor va a calificar a sus alumnos de la
+siguiente manera: aplicará 3 exámenes cuyo
+promedio representa el 60% de la calificación. Dejó
+cinco tareas cuyo promedio equivale al 30% de la
+calificación y finalmente hubo dos exposiciones en el
+semestre cuyo promedio aportó el otro 10% faltante.
+¿Cuál sería el procedimiento y datos necesarios para
+realizar este cálculo?

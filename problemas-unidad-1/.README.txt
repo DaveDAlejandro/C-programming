@@ -1,0 +1,11 @@
+
+------------------------------------------------------------
+	Estos son los problemas de la primera unidad de mi 
+clase de programación estructurada en la UAM. No tiene mayor
+ciencia pero quiro dejar constancia de mi progreso en mi 
+Github.
+
+------------------------------------------------------------
+	These are some exercises from the first unit of my
+structured programming subject. Nothing special but I really
+want to upload my excercises to my Github

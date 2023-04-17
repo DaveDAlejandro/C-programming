@@ -1,0 +1,17 @@
+Una empresa se dedica a equipar canchas de fútbol,
+recientemente recibió una solicitud por parte del Deportivo
+Reynosa que va a crear dos canchas de fútbol 7 y una de
+fútbol. Los precios que maneja la compañía son:
+El metro cuadrado de pasto cuesta $50
+Pintar una cancha de fútbol cuesta $500
+Pintar una cancha de fútbol 7 cuesta $300
+Hacer y colocar una portería con su red de una cancha de
+fútbol cuesta $1000
+Hacer y colocar una portería con su red de una cancha de
+fútbol 7 cuesta $500
+Hay que considerar que al tratarse de un deportivo público
+manejado por la Alcaldía, se le ofrece un descuento de 15%
+en el total del precio.
+¿Qué datos necesita y cuál es el procedimiento a seguir para
+calcular cuánto cobrará esta compañía al Deportivo
+Reynosa?

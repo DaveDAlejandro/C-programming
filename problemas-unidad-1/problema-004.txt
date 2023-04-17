@@ -1,0 +1,15 @@
+Una estación meteorológica está realizando mediciones en el polo norte y tiene
+el siguiente protocolo:
+
+Realiza cinco lecturas a lo largo de varios kilómetros en distintas zonas, ya con
+estas cinco lecturas, debe determinar si la zona está en riesto, para esto:
+Si la temperatura de una zona es mayor que 283 grados Kelvin, significa que es
+una zona con riesgo.
+
+Si se tienen 4 o más zonas con riesgo, se dice que toda el área está en peligro
+de descongelamiento.
+
+La estación ha recibido los últimos datos, pero se encontró con un problema, se
+los han entregado en grados Centígrados.
+Ayuda a la estación a determinar si el área que está investigando está en riesgo
+y a saber cuántas zonas están en riesgo.
