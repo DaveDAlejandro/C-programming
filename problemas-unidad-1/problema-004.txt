@@ -11,5 +11,6 @@ de descongelamiento.
 
 La estación ha recibido los últimos datos, pero se encontró con un problema, se
 los han entregado en grados Centígrados.
+
 Ayuda a la estación a determinar si el área que está investigando está en riesgo
 y a saber cuántas zonas están en riesgo.
